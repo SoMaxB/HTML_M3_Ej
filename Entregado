@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio Multimedia</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="https://imgs.search.brave.com/Agl71jd5ngkfoa3mnU6NNiUCIARJR1HDIkWHh4G0ydY/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly9pbWFn/ZXM3LmFscGhhY29k/ZXJzLmNvbS8yOTgv/Mjk4ODUwLmpwZw" alt="WoWimg" width="500" height="300" />
+        
+        <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video width="300" height="300" controls autoplay muted loop >
+            <source src="video/videodisco.mp4" type="video/mp4" />
+        </video>
+        
+        <h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop>
+            <source src="https://coderadio-relay-nyc.freecodecamp.org/radio/8010/low.mp3" type="audio/mp3" />
+        </audio>
+
+    </body>
+</html>
